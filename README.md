@@ -1,4 +1,4 @@
 # Abdullah-tech
 This my first Repository.
 <br>
-Author=Abdullah Rashid
+Author=Abdullah Rashid -tech
